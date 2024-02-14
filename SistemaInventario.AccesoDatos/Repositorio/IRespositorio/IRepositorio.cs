@@ -9,22 +9,22 @@ namespace SistemaInventario.AccesoDatos.Repositorio.IRespositorio
     public interface IRepositorio <T> where T : class
     {
 
-        T Obtener(int id);
+        Task<T> Obtener(int id);
 
-        IEnumerable<T> ObtenerTodos(
+        Task<IEnumerable<T>> ObtenerTodos(
                Expression<Func<T, bool>> filtro = null,
                Func<IQueryable<T>,IOrderedQueryable<T>> orderBy = null,
                string incluirPropiedades = null, 
-               bool isTracking = true
+               bool isTracking = true   //Esto para acceder a un objeto y al mismo tiempo lo querramos modificar, para eso sirve
                );
 
-        T ObtenerPrimero(
+        Task<T> ObtenerPrimero(
                Expression<Func<T, bool>> filtro = null,               
                string incluirPropiedades = null,
-               bool isTracking = true
+               bool isTracking = true 
             );
 
-        void Agregar(T entidad);
+        Task Agregar(T entidad);
 
         void Remover(T entidad);
 
