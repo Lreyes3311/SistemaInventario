@@ -313,3 +313,4 @@ C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.pdb
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.genruntimeconfig.cache
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\ref\SistemaInventario.AccesoDatos.dll
+C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.sourcelink.json

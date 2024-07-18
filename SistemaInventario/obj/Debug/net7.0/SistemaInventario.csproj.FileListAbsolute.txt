@@ -565,3 +565,4 @@ C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario\obj\Debug\net7.0\SistemaInventario.sourcelink.json

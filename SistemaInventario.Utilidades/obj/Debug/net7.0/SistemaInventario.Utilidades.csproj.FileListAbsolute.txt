@@ -308,3 +308,4 @@ C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.pdb
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.genruntimeconfig.cache
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\ref\SistemaInventario.Utilidades.dll
+C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.sourcelink.json

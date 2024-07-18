@@ -1,6 +1,6 @@
 ﻿namespace SistemaInventario.AccesoDatos.Repositorio
 {
-    public interface IRepsitorio<T> where T : class
+    public interface IRepositorio<T> where T : class
     {
     }
 }

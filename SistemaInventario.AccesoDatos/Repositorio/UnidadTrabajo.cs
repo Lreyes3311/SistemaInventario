@@ -1,5 +1,5 @@
 ﻿using SistemaInventario.AccesoDatos.Data;
-using SistemaInventario.AccesoDatos.Repositorio.IRespositorio;
+using SistemaInventario.AccesoDatos.Repositorio.IRepositorio;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,7 +18,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio
         public UnidadTrabajo(ApplicationDbContext db)
         {
             _db = db;
-            Bodega = new BodegaRepositorio(_db);
+            Bodega = new BodegaRepositorio(_db); 
         }
  
         public void Dispose()

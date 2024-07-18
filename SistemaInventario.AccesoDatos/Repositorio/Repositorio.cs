@@ -1,9 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using SistemaInventario.AccesoDatos.Data;
-using SistemaInventario.AccesoDatos.Repositorio.IRespositorio;
+using SistemaInventario.AccesoDatos.Repositorio.IRepositorio;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 

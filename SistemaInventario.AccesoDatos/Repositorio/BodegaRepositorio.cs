@@ -1,5 +1,5 @@
 ﻿using SistemaInventario.AccesoDatos.Data;
-using SistemaInventario.AccesoDatos.Repositorio.IRespositorio;
+using SistemaInventario.AccesoDatos.Repositorio.IRepositorio;
 using SistemaInventario.Modelos;
 using System;
 using System.Collections.Generic;
