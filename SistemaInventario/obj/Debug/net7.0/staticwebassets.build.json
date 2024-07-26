@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Zm1ys7gEH/TgI3X/XZA5rhfylQlsk+8tR8QMQCz2Ogc=",
+  "Hash": "ORYnb4DHLHukNqoOJrSHyM3Sv6lP3thTl62l1fmXX8g=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\Bodega.js",
+      "Identity": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
       "SourceId": "SistemaInventario",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario\\wwwroot\\",
       "BasePath": "_content/SistemaInventario",
-      "RelativePath": "js/Bodega.js",
+      "RelativePath": "js/bodega.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +109,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\Bodega.js"
+      "OriginalItemSpec": "wwwroot\\js\\bodega.js"
+    },
+    {
+      "Identity": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\categoria.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/categoria.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",

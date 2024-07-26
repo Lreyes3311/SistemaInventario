@@ -305,10 +305,10 @@ C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfo.cs
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.sourcelink.json
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CopyComplete
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.dll
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.genruntimeconfig.cache
 C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\ref\SistemaInventario.Modelos.dll
-C:\Cursos\Guia completa ASP.NET Core MVC (Net 7.0)\Seccion 2 Proyecto Net 6, Net 7\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.sourcelink.json
