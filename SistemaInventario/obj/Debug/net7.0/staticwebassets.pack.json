@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\js\\categoria.js"
     },
     {
+      "Id": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\marca.js",
+      "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
       "Id": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
