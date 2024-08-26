@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\0f79f4a0-6cef-461c-b5be-9322d759baac.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\0f79f4a0-6cef-461c-b5be-9322d759baac.JPG"
+    },
+    {
+      "Id": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\3fd951ab-8898-4637-bde5-fce407941a9c.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\3fd951ab-8898-4637-bde5-fce407941a9c.JPG"
+    },
+    {
       "Id": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
@@ -23,6 +31,10 @@
     {
       "Id": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
     },
     {
       "Id": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
