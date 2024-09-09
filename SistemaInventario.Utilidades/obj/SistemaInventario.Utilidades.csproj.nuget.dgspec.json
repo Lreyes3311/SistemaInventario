@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {}
+    "D:\\Proyectos\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {}
   },
   "projects": {
-    "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+    "D:\\Proyectos\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectUniqueName": "D:\\Proyectos\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "projectName": "SistemaInventario.Utilidades",
-        "projectPath": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+        "projectPath": "D:\\Proyectos\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
         "packagesPath": "C:\\Users\\lreye\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario.Utilidades\\obj\\",
+        "outputPath": "D:\\Proyectos\\SistemaInventario\\SistemaInventario.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -25,7 +25,6 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },

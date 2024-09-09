@@ -3,6 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace SistemaInventario.Utilidades
 {
@@ -12,5 +17,9 @@ namespace SistemaInventario.Utilidades
         public const string Error = "Error";
 
         public const string ImagenRuta = @"\imagenes\producto\";
+
+        public const string Role_Admin = "Admin";
+        public const string Role_Cliente = "Cliente";
+        public const string Role_Inventario = "Inventario";
     }
 }

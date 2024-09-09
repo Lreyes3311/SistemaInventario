@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cgKrfltK4HoQqm9UVmFrvQItK0TkoR2yCunL6EMuiSPJ6yMu32jYwqDvbNQhhImYuT3S87ozFo6t90VtzuK5KQ==",
+  "dgSpecHash": "KzlJdn7GailOCZiHJ9IwhYsmnaJDs8B2r2gh1Vq6bSuyiBMWDLrgsLutxgyMzCjubYiRzwzmdLo2eN0Dcbb5fQ==",
   "success": true,
-  "projectFilePath": "C:\\Cursos\\Guia completa ASP.NET Core MVC (Net 7.0)\\Seccion 2 Proyecto Net 6, Net 7\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+  "projectFilePath": "D:\\Proyectos\\SistemaInventario\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lreye\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\lreye\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
