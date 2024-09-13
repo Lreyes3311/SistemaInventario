@@ -170,6 +170,8 @@ namespace SistemaInventario.Areas.Identity.Pages.Account
                 {
                     _logger.LogInformation("User created a new account with password.");
 
+
+
                     if (!await _roleManager.RoleExistsAsync(DS.Role_Admin))
                     {
                         await _roleManager.CreateAsync(new IdentityRole(DS.Role_Admin));
@@ -185,6 +187,8 @@ namespace SistemaInventario.Areas.Identity.Pages.Account
                         await _roleManager.CreateAsync(new IdentityRole(DS.Role_Inventario));
                     }
 
+                    //await _userManager.AddToRoleAsync(user, DS.Role_Admin);
+
                     if (user.Role == null) //El valor que recibe desde el Page
                     {
                         await _userManager.AddToRoleAsync(user, DS.Role_Cliente);
@@ -193,6 +197,7 @@ namespace SistemaInventario.Areas.Identity.Pages.Account
                     {
                         await _userManager.AddToRoleAsync(user, user.Role);
                     }
+
                     var userId = await _userManager.GetUserIdAsync(user);
                     //var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);
                     //code = WebEncoders.Base64UrlEncode(Encoding.UTF8.GetBytes(code));
