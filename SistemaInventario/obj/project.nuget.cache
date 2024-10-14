@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dVOalbFZzznCvD7u5gjN31Z/mfvrEC/UlLWJRA1EV9+dqedQnp0/6ao/WGJ1QdWnYqsnEefpAvBNWN1oOkLLhg==",
+  "dgSpecHash": "SYr30OKCoOYBcwpbcF9rqdyTx7QM01JGnFaWBNPgMm+ZQhEtFw3NmNMlquthFB65EYZSemSu59isFCmUoYhDIg==",
   "success": true,
   "projectFilePath": "D:\\Proyectos\\SistemaInventario\\SistemaInventario\\SistemaInventario.csproj",
   "expectedPackageFiles": [
@@ -147,6 +147,7 @@
     "C:\\Users\\lreye\\.nuget\\packages\\nuget.projectmodel\\6.11.0\\nuget.projectmodel.6.11.0.nupkg.sha512",
     "C:\\Users\\lreye\\.nuget\\packages\\nuget.protocol\\6.11.0\\nuget.protocol.6.11.0.nupkg.sha512",
     "C:\\Users\\lreye\\.nuget\\packages\\nuget.versioning\\6.11.0\\nuget.versioning.6.11.0.nupkg.sha512",
+    "C:\\Users\\lreye\\.nuget\\packages\\rotativa.aspnetcore\\1.3.2\\rotativa.aspnetcore.1.3.2.nupkg.sha512",
     "C:\\Users\\lreye\\.nuget\\packages\\sendgrid\\9.29.3\\sendgrid.9.29.3.nupkg.sha512",
     "C:\\Users\\lreye\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\lreye\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Rotativa.AspNetCore;
 using SistemaInventario.AccesoDatos.Repositorio.IRepositorio;
 using SistemaInventario.Modelos;
 using SistemaInventario.Modelos.ViewModels;
@@ -212,14 +213,14 @@ namespace SistemaInventario.Areas.Inventario.Controllers
             return View(kardexInventarioVM);
         }
 
-        public async Task<IActionResult> ImprimirKardex(DateTime fechaInicio, DateTime fechaFinal, int productoId)
+        public async Task<IActionResult> ImprimirKardex(string fechaInicio, string fechaFinal, int productoId)
         {
             KardexInventarioVM kardexInventarioVM = new KardexInventarioVM();
             kardexInventarioVM.Producto = new Producto();
             kardexInventarioVM.Producto = await _unidadTrabajo.Producto.Obtener(productoId);
 
-            kardexInventarioVM.FechaInicio = fechaInicio;
-            kardexInventarioVM.FechaFinal = fechaFinal;
+            kardexInventarioVM.FechaInicio = DateTime.Parse(fechaInicio);
+            kardexInventarioVM.FechaFinal = DateTime.Parse(fechaFinal);
 
             kardexInventarioVM.KardexInventarioLista = await _unidadTrabajo.KardexInventario.ObtenerTodos(
                                                                    k => k.BodegaProducto.ProductoId == productoId &&
