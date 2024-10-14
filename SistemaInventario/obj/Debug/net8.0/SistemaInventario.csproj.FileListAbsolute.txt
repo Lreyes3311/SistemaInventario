@@ -99,7 +99,6 @@ D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
@@ -167,7 +166,6 @@ D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.dl
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Drawing.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
-D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Formats.Tar.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Globalization.dll
@@ -264,6 +262,7 @@ D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Te
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Text.Encoding.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Text.Json.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Threading.Channels.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Threading.dll
@@ -333,6 +332,7 @@ D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Microsoft.Enti
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
@@ -370,9 +370,11 @@ D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\NuGet.Packagin
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\NuGet.ProjectModel.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\NuGet.Protocol.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\SendGrid.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\SQLitePCLRaw.core.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\StarkbankEcdsa.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.CodeDom.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -381,13 +383,13 @@ D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Composi
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Composition.TypedParts.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Formats.Asn1.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Memory.Data.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Runtime.Caching.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Security.Permissions.dll
-D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Text.Json.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Windows.Extensions.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\af\Humanizer.resources.dll
 D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\ar\Humanizer.resources.dll
@@ -591,5 +593,4 @@ D:\Proyectos\SistemaInventario\SistemaInventario\obj\Debug\net8.0\refint\Sistema
 D:\Proyectos\SistemaInventario\SistemaInventario\obj\Debug\net8.0\SistemaInventario.pdb
 D:\Proyectos\SistemaInventario\SistemaInventario\obj\Debug\net8.0\SistemaInventario.genruntimeconfig.cache
 D:\Proyectos\SistemaInventario\SistemaInventario\obj\Debug\net8.0\ref\SistemaInventario.dll
-D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\SendGrid.dll
-D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\StarkbankEcdsa.dll
+D:\Proyectos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\libman.json

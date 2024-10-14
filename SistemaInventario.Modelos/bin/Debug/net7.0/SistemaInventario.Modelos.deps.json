@@ -43,6 +43,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "7.0.15",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.15",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.15",
+          "SendGrid": "9.29.3",
           "SistemaInventario.Utilidades": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "7.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "7.0.0.0",

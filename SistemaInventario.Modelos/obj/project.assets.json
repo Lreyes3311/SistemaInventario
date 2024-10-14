@@ -3981,6 +3981,7 @@
       "Microsoft.EntityFrameworkCore.Relational >= 7.0.15",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.15",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.15",
+      "SendGrid >= 9.29.3",
       "SistemaInventario.Utilidades >= 1.0.0"
     ]
   },
@@ -4065,6 +4066,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[7.0.15, )"
+          },
+          "SendGrid": {
+            "target": "Package",
+            "version": "[9.29.3, )"
           }
         },
         "imports": [

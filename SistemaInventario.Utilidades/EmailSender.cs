@@ -23,7 +23,7 @@ namespace SistemaInventario.Utilidades
             var from = new EmailAddress("luis@pulsecommercegt.org");
             var to = new EmailAddress(email);
             var msg = MailHelper.CreateSingleEmail(from, to, subject, plainTextContent: "", htmlMessage);
-            //var msg = new MailHelper.CreateSingleEmail(from, to, subject, "", htmlMessage);               
+           // var msg = new MailHelper.CreateSingleEmail(from, to, subject, "", htmlMessage);               
             
             return client.SendEmailAsync(msg);
         }
