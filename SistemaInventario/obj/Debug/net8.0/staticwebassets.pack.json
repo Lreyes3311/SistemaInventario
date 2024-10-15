@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\imagenes\\Logo Teravision.png"
     },
     {
+      "Id": "D:\\Proyectos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\confirmacion.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\confirmacion.jpg"
+    },
+    {
       "Id": "D:\\Proyectos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\34f40ad3-e570-458c-9882-ea61f4f77262.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\34f40ad3-e570-458c-9882-ea61f4f77262.JPG"
     },

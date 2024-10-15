@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kJ74JjoaTs8PmdpR9Dg/jtse2h57QeSz3X+O/Y6k8Ao=",
+  "Hash": "WwJAL3ax9ZhDCPKVpAx1zs9AWQ2pFvrGo2wGN63VJ7s=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1269,6 +1269,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Proyectos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\confirmacion.jpg",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "imagenes/confirmacion.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\confirmacion.jpg"
     },
     {
       "Identity": "D:\\Proyectos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\Logo Teravision.jpeg",

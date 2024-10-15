@@ -41,7 +41,7 @@
                                         <label>Direccion</label>
                                     </div>
                                     <div class="col-9">
-                                        <input asp-for="Orden.Direccion" type="text" class="form-control" id="direccionId" />
+                                        <input asp-for="Orden.Direccion" type="text" class="form-control" id="direccionId"/>
                                     </div>
                                 </div>
                                 <div class="row my-1">
@@ -49,7 +49,7 @@
                                         <label>Ciudad</label>
                                     </div>
                                     <div class="col-9">
-                                        <input asp-for="Orden.Ciudad" type="text" class="form-control" id="ciudadId" />
+                                        <input asp-for="Orden.Ciudad" type="text" class="form-control" id="ciudadId"/>
                                     </div>
                                 </div>
                                 <div class="row my-1">
@@ -57,7 +57,7 @@
                                         <label>Pais</label>
                                     </div>
                                     <div class="col-9">
-                                        <input asp-for="Orden.Pais" type="text" class="form-control" id="paisId" />
+                                        <input asp-for="Orden.Pais" type="text" class="form-control" id="paisId"/>
                                     </div>
                                 </div>
                             </div>
@@ -73,13 +73,13 @@
                                                 <h6 class="my-0">@item.Producto.Descripcion</h6>
                                                 <small class="text-muted">Cantidad: @item.Cantidad</small>
                                             </div>
-                                            <span class="text-muted">$ @(item.Producto.Precio * item.Cantidad)</span>
+                                            <span class="text-muted">Q @(item.Producto.Precio * item.Cantidad)</span>
                                         </li>
                                     }
 
                                     <li class="list-group-item d-flex justify-content-between bg-light">
                                         <strong class="text-success">Total (GTQ)</strong>
-                                        <strong class="text-success">Q@(Model.Orden.TotalOrden)</strong>
+                                        <strong class="text-success">Q @(Model.Orden.TotalOrden)</strong>
                                     </li>
                                 </ul>
                             </div>
@@ -111,7 +111,7 @@
     </div>
 </form>
 
-@section Scripts {
+ @section Scripts {
     <script>
 
         $("#procederId").click(function () {
@@ -144,9 +144,5 @@
         });
 
     </script>
-
-}
-
-
-
-
+ 
+ }
